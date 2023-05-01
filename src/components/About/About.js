@@ -18,8 +18,8 @@ function About() {
           human potential. We do that by creating ground breaking sport
           innovations, by making our products more suitable, by building a
           creative and diverse global team and by making a positive impact in
-          communities where we live and work. Based in Beaverton, Oregon, NIKE,
-          Inc. incluascacvfvz des the Nike, Converse, and Jordan brands.
+          communities where we live and work. Based in Itly, Oregon and many more places.
+          Nike Private Limited.      
         </p>
       </div>
     </div>
