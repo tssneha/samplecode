@@ -9,7 +9,7 @@ function Footer() {
         <div className="footer-content">
           <div className="footer-section about">
             <p className="footer-para">
-              Developer: <span className="my-name"> Tadawvkugwviywrvuvwbi</span>
+              Developer: <span className="my-name"> ABC</span>
             </p>
 
             <div className="contact"></div>
